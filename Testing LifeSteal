@@ -1,0 +1,6 @@
+on join:
+    set the maximum health of the player to 20
+On Death:
+  set the maximum health of the victim to (maximum health - 1)
+    if attacker is player:
+      set the maximum health of the attacker to (maximum health + 1)
