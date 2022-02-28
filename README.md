@@ -1,6 +1,6 @@
 # Info #
 Username: AlmondDrop11
-* Rank: Developer
+* Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper
 
 - - - -
 
