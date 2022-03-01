@@ -35,5 +35,3 @@ Username: AlmondDrop11
 * School MC Server ( Temp Op ) ( Closed )
 * Lifesteal Server ( Developer ) ( Past ) 
 
-
-![picture alt](https://static.wikia.nocookie.net/eldaria/images/0/03/Eldaria_Whole_Full_background_Updated_V1.png/revision/latest?cb=20211011013237 "Eldaria Logo")
