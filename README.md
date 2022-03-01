@@ -16,7 +16,8 @@ Username: AlmondDrop11
 
 * Learning Css, Python, Skript, and Html
 * Complimentary Skripts
-  * Miniaml Skript Experience 
+  * Miniaml Skript Experience
+   * Trying to expand my knowledge though
 
 - - - -
 
