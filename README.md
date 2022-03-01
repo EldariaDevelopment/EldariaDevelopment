@@ -17,13 +17,13 @@ Username: AlmondDrop11
 * Learning Css, Python, Skript, and Html
 * Complimentary Skripts
   * Miniaml Skript Experience
-   * Trying to expand my knowledge though
+  * Trying to expand my knowledge though
 
 - - - -
 
 #### Server | Occupation: ####
 
-* 5G (Discord Moderator)
+* 5G (Discord Moderator) ( Gamemode Developer )
 
 - - - -
 
@@ -34,3 +34,4 @@ Username: AlmondDrop11
 * Nightmare Smp (Developer) ( Closed )
 * School MC Server ( Temp Op ) ( Closed )
 * Lifesteal Server ( Developer ) ( Past ) 
+* 
