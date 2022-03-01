@@ -23,6 +23,12 @@ Username: AlmondDrop11
 
 #### Server | Occupation: ####
 
+* 5G (Discord Moderator)
+
+- - - -
+
+##### Past | Archived Development Projects: #####
+
 * Eldaria (Owner) (Archived)
-* 5G (Disocrd Moderator)
+* Waffle ( Hypixel Guild Moderator ) (Archived)
 * Nightmare Smp (Developer) (Archived)
