@@ -30,5 +30,7 @@ Username: AlmondDrop11
 ##### Past | Archived Development Projects: #####
 
 * Eldaria (Owner) (Archived)
-* Waffle ( Hypixel Guild Moderator ) (Archived)
-* Nightmare Smp (Developer) (Archived)
+* Waffle ( Hypixel Guild Moderator ) ( Disbanded )
+* Nightmare Smp (Developer) ( Closed )
+* School MC Server ( Temp Op ) ( Closed )
+* Lifesteal Server ( Developer ) ( Past ) 
