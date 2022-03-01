@@ -8,14 +8,15 @@ Username: AlmondDrop11
 
 * Python and Skript Coding
 * Failing School
+* Flipping Balisongs
 
 - - - -
 
 ### Current Projects ###
 
 * Learning Css, Python, Skript, and Html
-* Minimal Skript Knowledge
 * Complimentary Skripts
+*   Minimal Skript Knowledge
 
 - - - -
 
