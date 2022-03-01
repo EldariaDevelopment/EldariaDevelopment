@@ -36,4 +36,4 @@ Username: AlmondDrop11
 * Lifesteal Server ( Developer ) ( Past ) 
 
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![picture alt](https://static.wikia.nocookie.net/eldaria/images/0/03/Eldaria_Whole_Full_background_Updated_V1.png/revision/latest?cb=20211011013237 "Eldaria Logo")
