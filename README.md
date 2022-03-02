@@ -14,7 +14,7 @@ Username: AlmondDrop11
 
 ### Current Projects ###
 
-* Learning Css, Python, Skript, and ~~blockCode ~~Html
+* Learning Css, Python, Skript, and HTML
 * Complimentary Skripts
   * Miniaml Skript Experience
   * Trying to expand my knowledge though
@@ -41,3 +41,5 @@ Username: AlmondDrop11
 * Astreminix ( Developer ) ( Past )
 * Luna ( Helper ) ( Closed )
 * Ender Watchers ( Community Manager ) ( Closed )
+* <mark>very important words</mark>.
+
