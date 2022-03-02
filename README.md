@@ -14,7 +14,7 @@ Username: AlmondDrop11
 
 ### Current Projects ###
 
-* Learning Css, Python, Skript, and Html
+* Learning Css, Python, Skript, and ~~blockCode ~~Html
 * Complimentary Skripts
   * Miniaml Skript Experience
   * Trying to expand my knowledge though
