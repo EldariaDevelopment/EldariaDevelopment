@@ -43,7 +43,7 @@ Username: AlmondDrop11
 * Ender Watchers ( Community Manager ) (Archived)
 <dl>
   <dt>Archived, Term 1</dt>
-  <dd>Server and or Project have been Closed or Regulated .</dd>
+  <dd>Server and or Project have been Closed and or Unregulated .</dd>
   <dt>Past, Term 2</dt>
   <dd>Left the Server and or Projct </dd>
   <dd>Been terminated from said Server and or Project.</dd>
