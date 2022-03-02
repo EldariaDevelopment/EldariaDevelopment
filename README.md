@@ -23,8 +23,7 @@ Username: AlmondDrop11
 
 #### Server | Occupation: ####
 
-* 5G (Discord Moderator) ( Gamemode Developer )
-
+* 5G (Discord Moderator)
 - - - -
 
 ##### Past | Archived Development Projects: #####
