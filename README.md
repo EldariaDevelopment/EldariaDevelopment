@@ -29,8 +29,6 @@ Username: AlmondDrop11
 
 ##### Past | Archived Development Projects: #####
 
-Archived
-: This is the definition of the first term.
 * Eldaria (Owner) (Archived)
 * Waffle ( Hypixel Guild Moderator ) ( Disbanded )
 * Nightmare Smp (Developer) ( Past ) ( Closed )
@@ -44,10 +42,10 @@ Archived
 * Luna ( Helper ) ( Closed )
 * Ender Watchers ( Community Manager ) (Archived)
 <dl>
-  <dt>First Term</dt>
-  <dd>This is the definition of the first term.</dd>
-  <dt>Second Term</dt>
-  <dd>This is one definition of the second term. </dd>
-  <dd>This is another definition of the second term.</dd>
+  <dt>Archived, Term 1</dt>
+  <dd>Server and or Project have been Closed or Regulated .</dd>
+  <dt>Past, Term 2</dt>
+  <dd>Left the Server and or Projct </dd>
+  <dd>Been terminated from said Server and or Project.</dd>
 </dl>
 
