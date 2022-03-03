@@ -12,7 +12,7 @@ Username: AlmondDrop11
 
 - - - -
 
-<h3 id="custom-id">Current Projects</h3>
+<h3 id="5">Current Projects</h3>
 
 * Learning Css, Python, Skript, and HTML
 * Complimentary Skripts
@@ -48,4 +48,3 @@ Username: AlmondDrop11
   <dd>Left the Server and or Projct </dd>
   <dd>Been terminated from said Server and or Project.</dd>
 </dl>
-[^bignote]: e
