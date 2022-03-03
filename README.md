@@ -12,7 +12,7 @@ Username: AlmondDrop11
 
 - - - -
 
-<h3 id="5">Current Projects</h3>
+### Current Projects
 
 * Learning Css, Python, Skript, and HTML
 * Complimentary Skripts
