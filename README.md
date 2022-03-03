@@ -7,7 +7,7 @@ Username: AlmondDrop11
 ## Interests/Hobbies ##
 
 * Python and Skript Coding
-* Failing School
+* Failing School :trollface:
 * Flipping Balisongs
 
 - - - -
@@ -49,3 +49,12 @@ Username: AlmondDrop11
   <dd>Been terminated from said Server and or Project.</dd>
 </dl>
 
+he backticks before the fenced code block.
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
