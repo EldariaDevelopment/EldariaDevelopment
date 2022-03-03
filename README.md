@@ -48,13 +48,4 @@ Username: AlmondDrop11
   <dd>Left the Server and or Projct </dd>
   <dd>Been terminated from said Server and or Project.</dd>
 </dl>
-
-he backticks before the fenced code block.
-
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+Potato[^bignote]:
