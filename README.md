@@ -2,18 +2,19 @@
 Username: AlmondDrop11
 * Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper
 
-- - - -
+- - -
 
 ## Interests/Hobbies ##
 
 * Python and Skript Coding
 * Failing School :trollface:
-* Flipping Balisongs
+* Flipping Balisongs 
 
-- - - -
+- - -
 
 ### Current Projects
 
+* Skript Lifesteal https://github.com/EldariaDevelopment/Skript-LifeSteal
 * Learning Css, Python, Skript, and HTML
 * Complimentary Skripts
   * Miniaml Skript Experience
@@ -25,7 +26,7 @@ Username: AlmondDrop11
 
 * 5G (Discord Moderator)
 * Project: City RP ( Developer )
-- - - -
+- - -
 
 ##### Past | Archived Development Projects: #####
 
@@ -41,6 +42,10 @@ Username: AlmondDrop11
 * Astreminix ( Developer ) ( Past )
 * Luna ( Helper ) ( Closed )
 * Ender Watchers ( Community Manager ) (Archived)
+
+- - -
+##
+
 <dl>
   <dt>Archived, Term 1</dt>
   <dd>Server and or Project have been Closed and or Unregulated .</dd>
