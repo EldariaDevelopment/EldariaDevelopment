@@ -26,6 +26,9 @@ Username: AlmondDrop11
 
 * 5G (Discord Moderator)
 * Project: City RP ( Developer )
+* Chilli Bedwars ( Discord Moderator )
+* Eebo Smp ( Discord Helper ) 
+* Suited Game ( Discord Staff Member )
 - - -
 
 ##### Past | Archived Development Projects: #####
