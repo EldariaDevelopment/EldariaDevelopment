@@ -64,4 +64,6 @@ Username: AlmondDrop11
   <dd>occasionally, rather than all of the time.</dd>
   <dt>Terminated, Term 4</dt>
   <dd>Bring to an end.</dd>
+  <dt>Closed, Term 5</dt>
+  <dd>Cease business or operation, especially permanently.</dd>
 </dl>
