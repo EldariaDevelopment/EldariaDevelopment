@@ -57,12 +57,11 @@ Username: AlmondDrop11
 
 <dl>
   <dt>Archived, Term 1</dt>
-  <dd>Server and or Project have been Closed and or Unregulated .</dd>
+  <dd>Place or store (something) in an archive.</dd>
   <dt>Past, Term 2</dt>
-  <dd>Left the Server and or Projct </dd>
-  <dd>Been terminated from said Server and or Project.</dd>
+  <dd>Gone by in time and no longer existing.</dd>
   <dt>Sometimes, Term 3</dt>
-  <dd>Mild-Semi Active.</dd>
+  <dd>occasionally, rather than all of the time.</dd>
   <dt>Terminated, Term 4</dt>
-  <dd>Kicked out or Expelled</dd>
+  <dd>Bring to an end.</dd>
 </dl>
