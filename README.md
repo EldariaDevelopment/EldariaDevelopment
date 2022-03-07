@@ -62,5 +62,7 @@ Username: AlmondDrop11
   <dd>Left the Server and or Projct </dd>
   <dd>Been terminated from said Server and or Project.</dd>
   <dt>Sometimes, Term 3</dt>
-  <dd>Mild-Semi.</dd>
+  <dd>Mild-Semi Active.</dd>
+  <dt>Terminated, Term 4</dt>
+  <dd>Kicked out or Expelled</dd>
 </dl>
