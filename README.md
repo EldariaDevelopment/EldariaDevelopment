@@ -39,15 +39,15 @@ Username: AlmondDrop11
 - - -
 
 ###### Departed | Archived Development Projects:
-| Server | Role | Year | Server Status | Termination Status |
+| Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Eldaria | Owner | 2021 | Closed | On Going |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
 | WaterMelon Development | Developer | 2020 |
-| Waffle | Owner | 2021 |
-| Frenzi | Owner | 2021 |
-| Eldaria | Owner | 2021 |
-| Eldaria | Owner | 2021 |
+| Waffle | Admin | 2021 | Closed | Terminated |
+| Frenzi | Admin | 2021 | Inactive | On Going |
+| Nightmare Smp | Owner | 2021 |
+| School MC Server | Owner | 2021 |
 | Eldaria | Owner | 2021 |
 | Eldaria | Owner | 2021 |
 | Eldaria | Owner | 2021 |
