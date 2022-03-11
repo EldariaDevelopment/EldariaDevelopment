@@ -43,10 +43,10 @@ Username: AlmondDrop11
 | :----: | :----: | :----: | :----: | :----: |
 | Eldaria | Owner | 2021 | Closed | On Going |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
-| WaterMelon Development | Developer | 2020 |
+| WaterMelon Development | Developer | 2020 | Closed | Terminated |
 | Waffle | Admin | 2021 | Closed | Terminated |
 | Frenzi | Admin | 2021 | Inactive | On Going |
-| Nightmare Smp | Owner | 2021 |
+| Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
 | School MC Server | Owner | 2021 |
 | Eldaria | Owner | 2021 |
 | Eldaria | Owner | 2021 |
