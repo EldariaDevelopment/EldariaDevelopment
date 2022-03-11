@@ -39,7 +39,7 @@ Username: AlmondDrop11
 - - -
 
 ###### Departed | Archived Development Projects:
-Sorts: Position[^1] Year [^2]
+Sorts: Position[^1] Year[^2]
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
