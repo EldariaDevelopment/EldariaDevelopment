@@ -51,7 +51,7 @@ Username: AlmondDrop11
 | Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
 | Visionz Academy | Co-Owner | 2021 | Inactive | On Going |
 | The Mafia Squad | Discord Developer | 2021  | Inactive | On Going |
-| Astreminix | Developer | 2021 | | Semi-Active | | Topic Changed, Terminated |
+| Astreminix | Developer | 2021 | Semi-Active | Topic Changed, Terminated |
 | Luna | Helper | 2021 | Closed | Unknown |
 | OverWorld | Helper | 2021 | Closed | Terminated |
 
