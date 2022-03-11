@@ -41,8 +41,8 @@ Username: AlmondDrop11
 ###### Past | Archived Development Projects:
 
 * Eldaria (Owner) (Archived)
-* Lost in Space\
-* Watermelon Development
+* Lost in Space (Co-Owner) (Archived)
+* Watermelon Development (Developer) (Disbanded)
 * Waffle ( Hypixel Guild Moderator ) ( Disbanded )
 * Nightmare Smp (Developer) ( Past ) ( Closed )
 * School MC Server ( Temp Op ) ( Past ) ( Closed )
