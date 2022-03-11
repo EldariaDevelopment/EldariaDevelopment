@@ -42,6 +42,11 @@ Username: AlmondDrop11
 | Server | Role | Year |
 | :----: | :----: | :----: |
 | Eldaria | Owner | 2021 |
+| Lost in Space | Admin | 2019 |
+| WaterMelon Development | Developer | 2020 |
+| Eldaria | Owner | 2021 |
+| Eldaria | Owner | 2021 |
+| Eldaria | Owner | 2021 |
 
 * Eldaria
 * Lost in Space
