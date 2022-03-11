@@ -55,22 +55,6 @@ Username: AlmondDrop11
 | Luna | Helper | 2021 | Closed | Unknown |
 | OverWorld | Helper | 2021 | Closed | Terminated |
 
-
-* Eldaria
-* Lost in Space
-* Watermelon Development
-* Waffle
-* Nightmare Smp
-* School MC Server
-* Lifesteal Server
-* OverWorld
-* Frenzi
-* Visionz academy
-* The Mafia Squad
-* Astreminix
-* Luna
-* Ender Watchers
-
 - - -
 
 <dl>
