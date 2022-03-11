@@ -39,7 +39,7 @@ Username: AlmondDrop11
 - - -
 
 ###### Departed | Archived Development Projects:
-Sorts: Position[^1] Year[^2]
+Sorts: Position [^Position] Year [^Year]
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
@@ -70,7 +70,7 @@ Sorts: Position[^1] Year[^2]
   <dt>Closed, Term 5</dt>
   <dd>Cease business or operation, especially permanently.</dd>
 </dl>
-[^1]:
+[^Position]:
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
@@ -87,7 +87,7 @@ Sorts: Position[^1] Year[^2]
 | Luna | Helper | 2021 | Closed | Unknown |
 | OverWorld | Helper | 2021 | Closed | Terminated |
 
-[^2]:
+[^Year]:
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
