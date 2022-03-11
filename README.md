@@ -40,7 +40,7 @@ Username: AlmondDrop11
 
 ###### Departed | Archived Development Projects:
 | Server | Role | Year | Server Status | Termination Status |
-| :----: | :----: | :----: |
+| :----: | :----: | :----: | :----: | :----: |
 | Eldaria | Owner | 2021 | Closed | On Going |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
 | WaterMelon Development | Developer | 2020 |
