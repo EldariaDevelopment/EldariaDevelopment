@@ -47,11 +47,11 @@ Username: AlmondDrop11
 | Waffle | Admin | 2021 | Closed | Terminated |
 | Frenzi | Admin | 2021 | Inactive | On Going |
 | Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
-| School MC Server | Owner | 2020 | Closed | Unknown |
-| Visionz Academy | Owner | 2021 | Inactive | | On Going |
-| The Mafia Squad | Owner | 2021 | Discord Developer | Inactive | On Going |
-| Astreminix | Owner | 2021 | Developer | Semi-Active | | Topic Changed, Terminated |
-| Luna | Owner | 2021 |
+| School MC Server | Admin | 2020 | Closed | Unknown |
+| Visionz Academy | Co-Owner | 2021 | Inactive | | On Going |
+| The Mafia Squad | Discord Developer | 2021  | Inactive | On Going |
+| Astreminix | Developer | 2021 | | Semi-Active | | Topic Changed, Terminated |
+| Luna | Helper | 2021 | 
 | Ender Watchs | Owner | 2021 |
 | OverWorld | Owner | 2021 |
 | Eldaria | Owner | 2021 |
