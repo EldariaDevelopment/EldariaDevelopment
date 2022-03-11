@@ -41,19 +41,19 @@ Username: AlmondDrop11
 ###### Departed | Archived Development Projects:
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
-| Eldaria | Owner | 2021 | Closed | On Going |
+| Eldaria | Owner | 2021 | Closed | Unknown |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
 | WaterMelon Development | Developer | 2020 | Closed | Terminated |
 | Waffle | Admin | 2021 | Closed | Terminated |
 | Frenzi | Admin | 2021 | Inactive | On Going |
 | Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
-| School MC Server | Owner | 2021 |
-| Eldaria | Owner | 2021 |
-| Eldaria | Owner | 2021 |
-| Eldaria | Owner | 2021 |
-| Eldaria | Owner | 2021 |
-| Eldaria | Owner | 2021 |
-| Eldaria | Owner | 2021 |
+| School MC Server | Owner | 2020 | Closed | Unknown |
+| Visionz Academy | Owner | 2021 | Inactive | | On Going |
+| The Mafia Squad | Owner | 2021 | Discord Developer | Inactive | On Going |
+| Astreminix | Owner | 2021 | Developer | Semi-Active | | Topic Changed, Terminated |
+| Luna | Owner | 2021 |
+| Ender Watchs | Owner | 2021 |
+| OverWorld | Owner | 2021 |
 | Eldaria | Owner | 2021 |
 
 * Eldaria
