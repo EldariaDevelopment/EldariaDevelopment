@@ -75,17 +75,17 @@ Year [^Year]
 [^Position]:
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
+| Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
+| Astreminix | Developer | 2021 | Semi-Active | Topic Changed, Terminated |
+| The Mafia Squad | Discord Developer | 2021  | Inactive | On Going |
+| WaterMelon Development | Developer | 2020 | Closed | Terminated |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
 | School MC Server | Admin | 2020 | Closed | Resigned |
-| WaterMelon Development | Developer | 2020 | Closed | Terminated |
 | Ender Watchers | Community Manager | 2020 | Closed/Inactive | Resigned |
 | Eldaria | Owner | 2020 | Closed | Unknown |
 | Waffle | Admin | 2021 | Closed | Terminated |
 | Frenzi | Admin | 2021 | Inactive | On Going |
-| Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
 | Visionz Academy | Co-Owner | 2021 | Inactive | On Going |
-| The Mafia Squad | Discord Developer | 2021  | Inactive | On Going |
-| Astreminix | Developer | 2021 | Semi-Active | Topic Changed, Terminated |
 | Luna | Helper | 2021 | Closed | Unknown |
 | OverWorld | Helper | 2021 | Closed | Terminated |
 
