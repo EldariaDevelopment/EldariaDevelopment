@@ -41,13 +41,13 @@ Username: AlmondDrop11
 ###### Departed | Archived Development Projects:
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
-| Eldaria | Owner | 2021 | Closed | Unknown |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
+| School MC Server | Admin | 2020 | Closed | Resigned |
 | WaterMelon Development | Developer | 2020 | Closed | Terminated |
+| Eldaria | Owner | 2020 | Closed | Unknown |
 | Waffle | Admin | 2021 | Closed | Terminated |
 | Frenzi | Admin | 2021 | Inactive | On Going |
 | Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
-| School MC Server | Admin | 2020 | Closed | Resigned |
 | Visionz Academy | Co-Owner | 2021 | Inactive | On Going |
 | The Mafia Squad | Discord Developer | 2021  | Inactive | On Going |
 | Astreminix | Developer | 2021 | | Semi-Active | | Topic Changed, Terminated |
