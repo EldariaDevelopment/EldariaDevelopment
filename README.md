@@ -71,6 +71,7 @@ Year [^Year]
   <dt>Closed, Term 5</dt>
   <dd>Cease business or operation, especially permanently.</dd>
 </dl>
+
 [^Position]:
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
