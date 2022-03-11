@@ -39,21 +39,24 @@ Username: AlmondDrop11
 - - -
 
 ###### Past | Archived Development Projects:
+| Server | Role | Year |
+| :----: | :----: | :----: |
+| Eldaria | Owner | 2021 |
 
-* Eldaria (Owner) (Archived)
-* Lost in Space (Co-Owner) (Archived)
-* Watermelon Development (Developer) (Disbanded)
-* Waffle ( Hypixel Guild Moderator ) ( Disbanded )
-* Nightmare Smp (Developer) ( Past ) ( Closed )
-* School MC Server ( Temp Op ) ( Past ) ( Closed )
-* Lifesteal Server ( Developer ) ( Past ) 
-* OverWorld ( Helper ) ( Closed ) ( Past )
-* Frenzi ( Admin ) (Archived)
-* Visionz academy ( Co-Owner ) (Archived)
-* The Mafia Squad ( Developer ) (Archived)
-* Astreminix ( Developer ) ( Past )
-* Luna ( Helper ) ( Closed )
-* Ender Watchers ( Community Manager ) (Archived)
+* Eldaria
+* Lost in Space
+* Watermelon Development
+* Waffle
+* Nightmare Smp
+* School MC Server
+* Lifesteal Server
+* OverWorld
+* Frenzi
+* Visionz academy
+* The Mafia Squad
+* Astreminix
+* Luna
+* Ender Watchers
 
 - - -
 
