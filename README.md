@@ -70,7 +70,8 @@ Sorts: Position[^1] Year [^2]
   <dt>Closed, Term 5</dt>
   <dd>Cease business or operation, especially permanently.</dd>
 </dl>
-[^1]: | Server | Role | Year | Server Status | Position Status |
+[^1]:
+| Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
 | School MC Server | Admin | 2020 | Closed | Resigned |
