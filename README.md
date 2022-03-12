@@ -30,12 +30,13 @@ Username: AlmondDrop11
 - - - -
 
 ##### Server | Occupation:
-
-* 5G (Discord Moderator)
-* Project: City RP ( Developer )
-* Chilli Bedwars ( Discord Moderator )
-* Eebo Smp ( Discord Helper ) 
-* Suited Game ( Discord Staff Member )
+| Server | Role | Year |
+| :----: | :----: | :----: | :----: | :----: |
+| 5G | Discord Moderator | 2021 or 2022 idk |
+| Project: City RP |  Developer  | 2021 | 
+| Chilli Bedwars |  Discord Moderator  | 2022 |
+| Eebo Smp |  Discord Helper  |  2022 |
+| Suited Game |  Discord Staff Member  | 2022 |
 - - -
 
 ###### Departed | Archived Development Projects:
