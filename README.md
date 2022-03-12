@@ -56,7 +56,13 @@ Position [^Position]
 | Astreminix | Developer | 2021 | Semi-Active | Topic Changed, Terminated |
 | Luna | Helper | 2021 | Closed | Unknown |
 | OverWorld | Helper | 2021 | Closed | Terminated |
-
+| EpixCraft | Admin | 2021 | Inactive | Unknown |
+| Some PetSimX Server | Ticket Manger | 2021 | Inactive | On Going |
+| Red Apple Studios | Co-Owner | 2020 | Inactive | On Going |
+| Warmkj's Server | Developer | 2020 | Inactive | On Going |
+| Astreminix 3 | Admin | 2021 | Inactive | On Going |
+| Dev Co | Developer | 2020 | Inactive | Terminated |
+| Crime City | Developer | 2020 | Inactive | On Going |
 - - -
 
 <dl>
