@@ -31,7 +31,7 @@ Username: AlmondDrop11
 
 ##### Server | Occupation:
 | Server | Role | Year |
-| :----: | :----: | :----: | :----: | :----: |
+| :----: | :----: | :----: |
 | 5G | Discord Moderator | 2021 or 2022 idk |
 | Project: City RP |  Developer  | 2021 | 
 | Chilli Bedwars |  Discord Moderator  | 2022 |
