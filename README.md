@@ -82,8 +82,8 @@ Position [^Position]
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
-| Astreminix | Developer | 2021 | Semi-Active | Topic Changed, Terminated |
 | The Mafia Squad | Discord Developer | 2021  | Inactive | On Going |
+| Astreminix | Developer | 2021 | Semi-Active | Topic Changed, Terminated |
 | WaterMelon Development | Developer | 2020 | Closed | Terminated |
 | Luna | Helper | 2021 | Closed | Unknown |
 | OverWorld | Helper | 2021 | Closed | Terminated |
