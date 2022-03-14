@@ -1,10 +1,11 @@
-# Info #
+# Intro
+## Info
 Username: AlmondDrop11
 * Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper
 
 - - -
 
-## Interests/Hobbies ##
+### Interests/Hobbies
 
 * Python and Skript Coding
 * Failing School :trollface:
@@ -19,7 +20,7 @@ Username: AlmondDrop11
 * Tynker ( Sometimes )
 * Discord ( The Best Game )
 
-#### Current Projects
+##### Current Projects
 
 * Skript Lifesteal https://github.com/EldariaDevelopment/Skript-LifeSteal
 * Learning Css, Python, Skript, and HTML
@@ -29,7 +30,7 @@ Username: AlmondDrop11
 
 - - - -
 
-##### Server | Occupation:
+###### Server | Occupation:
 | Server | Role | Year |
 | :----: | :----: | :----: |
 | 5G | Discord Moderator | 2021 or 2022 idk |
