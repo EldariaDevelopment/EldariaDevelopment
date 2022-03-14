@@ -74,7 +74,7 @@ Position [^Position]
   <dd>Cease business or operation, especially permanently.</dd>
 </dl>
 
-[^Position]:
+[^Position]: Sorted by Position[^Position]
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
