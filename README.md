@@ -28,15 +28,16 @@ Username: AlmondDrop11
 ##### Server | Occupation:
 | Server | Role | Year |
 | :----: | :----: | :----: |
-| 5G | Discord Moderator | 2021 or 2022 idk |
+| 5G | Discord Moderator | 2022 |
 | Project: City RP |  Developer  | 2021 | 
 | Chilli Bedwars |  Discord Moderator  | 2022 |
 | Eebo Smp |  Discord Helper  |  2022 |
 | Suited Game |  Discord Staff Member  | 2022 |
+| School | Stupid | 2077 | 
 - - -
 
 ###### Departed | Archived Development Projects:
-Position [^1]
+Sorted by Year, Position [^1]
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
@@ -76,6 +77,7 @@ Position [^1]
 
 - - -
 
+Sorted by Postion
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
