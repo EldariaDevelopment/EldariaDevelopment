@@ -36,7 +36,7 @@ Username: AlmondDrop11
 - - -
 
 ###### Departed | Archived Development Projects:
-Position [^Position]
+Position [^1]
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
@@ -74,7 +74,8 @@ Position [^Position]
   <dd>Cease business or operation, especially permanently.</dd>
 </dl>
 
-[^Position]: Sorted by Position[^Position]
+- - -
+
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
 | Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
@@ -90,3 +91,6 @@ Position [^Position]
 | Ender Watchers | Community Manager | 2020 | Closed/Inactive | Resigned |
 | Eldaria | Owner | 2020 | Closed | Unknown |
 | Visionz Academy | Co-Owner | 2021 | Inactive | On Going |
+[^1]:: Sorted by Position Above ^
+- - -
+
