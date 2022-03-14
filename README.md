@@ -1,5 +1,8 @@
-# Intro
-## Info
+# Introduction
+I create multiplayer experiences for Minecraft, Java Edition, and assisted with the development, structure, and moderation for countless servers.
+
+
+## Information
 Username: AlmondDrop11
 * Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper
 
@@ -13,24 +16,16 @@ Username: AlmondDrop11
 
 - - -
 
-### Games I play
-* Roblox
-* Minecraft
-* Scratch ( Sometimes )
-* Tynker ( Sometimes )
-* Discord ( The Best Game )
-
-##### Current Projects
+#### Current Projects
 
 * Skript Lifesteal https://github.com/EldariaDevelopment/Skript-LifeSteal
-* Learning Css, Python, Skript, and HTML
-* Complimentary Skripts
-  * Miniaml Skript Experience
-  * Trying to expand my knowledge though
+* Learning Css, Python, Skript, and HTML.
+* Developing Complimentary Skripts.
+* Trying to expand my programming knowledge.
 
 - - - -
 
-###### Server | Occupation:
+##### Server | Occupation:
 | Server | Role | Year |
 | :----: | :----: | :----: |
 | 5G | Discord Moderator | 2021 or 2022 idk |
