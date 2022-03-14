@@ -1,5 +1,5 @@
 # Introduction
-I create multiplayer experiences for Minecraft, Java Edition, and assisted with the development, structure, and moderation for countless servers.
+I create multiplayer experiences for Minecraft, Java Edition, and assisted with the development, structure, and moderation for countless(Not Really servers.
 
 
 ## Information
@@ -33,7 +33,8 @@ Username: AlmondDrop11
 | Chilli Bedwars |  Discord Moderator  | 2022 |
 | Eebo Smp |  Discord Helper  |  2022 |
 | Suited Game |  Discord Staff Member  | 2022 |
-| School | Stupid | 2077 | 
+| School | Student | 2077 |
+| StealzDupe | Develper | 2022 |
 - - -
 
 ###### Departed | Archived Development Projects:
@@ -93,6 +94,7 @@ Sorted by Postion
 | Ender Watchers | Community Manager | 2020 | Closed/Inactive | Resigned |
 | Eldaria | Owner | 2020 | Closed | Unknown |
 | Visionz Academy | Co-Owner | 2021 | Inactive | On Going |
-[^1]:: Sorted by Position Above ^
+[^1]: Sorted by Position Above 🔼
 - - -
+
 
