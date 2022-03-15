@@ -28,13 +28,13 @@ Username: AlmondDrop11
 ##### Server | Occupation:
 | Server | Role | Year |
 | :----: | :----: | :----: |
-| 5G | Discord Moderator | 2022 |
+| 5G | Moderator | 2022 |
 | Project: City RP |  Developer  | 2021 | 
 | Chilli Bedwars |  Discord Moderator  | 2022 |
 | Eebo Smp |  Discord Helper  |  2022 |
 | Suited Game |  Discord Staff Member  | 2022 |
+| StealzDupe | Developer | 2022 |
 | School | Student | 2077 |
-| StealzDupe | Develper | 2022 |
 - - -
 
 ###### Departed | Archived Development Projects:
