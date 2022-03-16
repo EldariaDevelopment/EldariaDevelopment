@@ -6,7 +6,9 @@ I create multiplayer experiences for Minecraft, Java Edition, and assisted with 
 Username: AlmondDrop11
 * Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper
 * <a href="https://github.com/MoonDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-MoonMc-blue"></a>
-* <a href="mailto://moonmcmanagement@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-Email-blue"></a>
+* <a href="mailto://moonmcmanagement@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/MoonMc-Email-blue"></a>
+* <a href="https://github.com/EldariaDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-Eldaria-blue"></a>
+* <a href="mailto:// EldariaDevelopment@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Eldaria-Email-blue"></a>
 * <a href="https://eldaria.fandom.com/wiki/Eldaria_Wiki" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Wiki-Eldaria-blue"></a>
 
 - - -
