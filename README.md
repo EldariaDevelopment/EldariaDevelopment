@@ -5,6 +5,10 @@ I create multiplayer experiences for Minecraft, Java Edition, and assisted with 
 ## Information
 Username: AlmondDrop11
 * Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper
+* <a href="https://github.com/MoonDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-MoonMc-blue"></a>
+* <a href="mailto://moonmcmanagement@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-Email-blue"></a>
+* <a href="https://github.com/MoonDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Discord-Almond-blue"></a>
+* <a href="https://eldaria.fandom.com/wiki/Eldaria_Wiki" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Wiki-Eldaria-blue"></a>
 
 - - -
 
@@ -24,8 +28,9 @@ Username: AlmondDrop11
 * Trying to expand my programming knowledge.
 
 - - - -
+##### Links
 
-##### Server | Occupation:
+###### Server | Occupation:
 | Server | Role | Year |
 | :----: | :----: | :----: |
 | 5G | Moderator | 2022 |
@@ -36,8 +41,8 @@ Username: AlmondDrop11
 | StealzDupe | Developer | 2022 |
 | School | Student | 2077 |
 - - -
-
 ###### Departed | Archived Development Projects:
+
 Sorted by Year, Position [^1]
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
@@ -96,5 +101,4 @@ Sorted by Postion
 | Visionz Academy | Co-Owner | 2021 | Inactive | On Going |
 [^1]: Sorted by Position Above 🔼
 - - -
-<!-- <a href="Potato.com"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a> -->
 
