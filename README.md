@@ -96,5 +96,5 @@ Sorted by Postion
 | Visionz Academy | Co-Owner | 2021 | Inactive | On Going |
 [^1]: Sorted by Position Above 🔼
 - - -
-
+<!-- <a href="Potato.com"><img alt="email" align="center" src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white"></a> -->
 
