@@ -7,7 +7,6 @@ Username: AlmondDrop11
 * Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper
 * <a href="https://github.com/MoonDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-MoonMc-blue"></a>
 * <a href="mailto://moonmcmanagement@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-Email-blue"></a>
-* <a href="https://github.com/MoonDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Discord-Almond-blue"></a>
 * <a href="https://eldaria.fandom.com/wiki/Eldaria_Wiki" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Wiki-Eldaria-blue"></a>
 
 - - -
