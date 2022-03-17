@@ -2,7 +2,7 @@
 I create multiplayer experiences for Minecraft, Java Edition, and assisted with the development, structure, and moderation for countless(Not Really servers.
 
 
-## Information
+# Information
 Username: AlmondDrop11
 * Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper
 * <a href="https://github.com/MoonDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-MoonMc-blue"></a>
@@ -13,7 +13,7 @@ Username: AlmondDrop11
 
 - - -
 
-### Interests/Hobbies
+# Interests/Hobbies
 
 * Python and Skript Coding
 * Failing School :trollface:
@@ -21,7 +21,7 @@ Username: AlmondDrop11
 
 - - -
 
-#### Current Projects
+# Current Projects
 
 * Skript Lifesteal https://github.com/EldariaDevelopment/Skript-LifeSteal
 * Learning Css, Python, Skript, and HTML.
@@ -29,7 +29,8 @@ Username: AlmondDrop11
 * Trying to expand my programming knowledge.
 
 - - - -
-##### Topics/Things I am researching
+
+# Topics/Things I am researching
 * Aerodynamics
 * Chlorine
 * Programming
@@ -37,11 +38,15 @@ Username: AlmondDrop11
   * Css
   * Html
   * Skript
-###### Topics/Things I've researched
-* Zirconium
 
-- - -
-####### Server | Occupation:
+- - - -
+# Topics/Things I've researched
+* Zirconium
+* Car Wheel Types ( Alloy & Steel )
+
+- - - -
+
+# Server | Occupation:
 
 | Server | Role | Year |
 | :----: | :----: | :----: |
@@ -53,8 +58,9 @@ Username: AlmondDrop11
 | StealzDupe | Developer | 2022 |
 | Project: City RP |  Developer  | 2021 | 
 
-- - -
-######## Departed | Archived Development Projects:
+- - - -
+
+# Departed | Archived Development Projects:
 
 Sorted by Year, Position [^1]
 | Server | Role | Year | Server Status | Position Status |
@@ -79,7 +85,8 @@ Sorted by Year, Position [^1]
 | Warmkj's Server | Developer | 2020 | Inactive | On Going |
 | Dev Co | Developer | 2020 | Inactive | Terminated |
 | Crime City | Developer | 2020 | Inactive | On Going |
-- - -
+
+- - - -
 
 <dl>
   <dt>Archived, Term 1</dt>
@@ -94,7 +101,7 @@ Sorted by Year, Position [^1]
   <dd>Cease business or operation, especially permanently.</dd>
 </dl>
 
-- - -
+- - - -
 
 Sorted by Postion
 | Server | Role | Year | Server Status | Position Status |
@@ -120,5 +127,6 @@ Sorted by Postion
 | Luna | Helper | 2021 | Closed | Unknown |
 | Some PetSimX Server | Ticket Manger | 2021 | Inactive | On Going |
 [^1]: Sorted by Position Above 🔼
-- - -
+
+- - - -
 
