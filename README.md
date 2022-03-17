@@ -34,10 +34,10 @@ Username: AlmondDrop11
 * Aerodynamics
 * Chlorine
 * Programming
-  * Python
-  * Css
-  * Html
-  * Skript
+ * Python
+ * Css
+ * Html
+ * Skript
 
 - - - -
 # Topics/Things I've researched
