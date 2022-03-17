@@ -29,7 +29,14 @@ Username: AlmondDrop11
 * Trying to expand my programming knowledge.
 
 - - - -
-##### Links
+##### Topics I am researching
+* Aerodynamics
+* Chlorine
+* Programming
+  * Python
+  * Css
+  * Html
+  * Skript
 
 ###### Server | Occupation:
 | Server | Role | Year |
