@@ -29,7 +29,7 @@ Username: AlmondDrop11
 * Trying to expand my programming knowledge.
 
 - - - -
-##### Topics I am researching
+##### Topics/Things I am researching
 * Aerodynamics
 * Chlorine
 * Programming
@@ -37,8 +37,12 @@ Username: AlmondDrop11
   * Css
   * Html
   * Skript
+###### Topics/Things I've researched
+* Zirconium
 
-###### Server | Occupation:
+- - -
+####### Server | Occupation:
+
 | Server | Role | Year |
 | :----: | :----: | :----: |
 | School | Student | 2077 |
@@ -50,7 +54,7 @@ Username: AlmondDrop11
 | Project: City RP |  Developer  | 2021 | 
 
 - - -
-###### Departed | Archived Development Projects:
+######## Departed | Archived Development Projects:
 
 Sorted by Year, Position [^1]
 | Server | Role | Year | Server Status | Position Status |
