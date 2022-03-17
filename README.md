@@ -32,17 +32,26 @@ Username: AlmondDrop11
 
 # Topics/Things I am researching
 * Aerodynamics
+  * How planes work mostly
 * Chlorine
+  * Chlorine Gas ( Toxin )
+  * Chlorine used in pools
 * Programming
- * Python
- * Css
- * Html
- * Skript
+  * Python
+  * Css
+  * Html
+  * Skript
 
 - - - -
 # Topics/Things I've researched
 * Zirconium
-* Car Wheel Types ( Alloy & Steel )
+  * Uses
+  * Properties
+  * Etc
+* Car Wheel Types
+  * Alloy
+  * Steel 
+  * Rims
 
 - - - -
 
