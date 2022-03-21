@@ -15,7 +15,7 @@ Username: AlmondDrop11
 
 # Interests/Hobbies
 
-* Python and Skript Coding
+* Python and Skript Programming
 * Failing School :trollface:
 * Flipping Balisongs 
 
@@ -33,6 +33,7 @@ Username: AlmondDrop11
 # Topics/Things I am researching
 * Aerodynamics
   * How planes work mostly
+  * Angle of Attack
 * Chlorine
   * Chlorine Gas ( Toxin )
   * Chlorine used in pools
