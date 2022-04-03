@@ -65,7 +65,6 @@ Username: AlmondDrop11
  Chilli Bedwars |  Discord Moderator  | 2022 |
 | Eebo Smp |  Discord Helper  |  2022 |
 | Suited Game |  Discord Staff Member  | 2022 |
-| StealzDupe | Developer | 2022 |
 | Project: City RP |  Developer  | 2021 | 
 
 - - - -
@@ -95,6 +94,8 @@ Sorted by Year, Position [^1]
 | Warmkj's Server | Developer | 2020 | Inactive | On Going |
 | Dev Co | Developer | 2020 | Inactive | Terminated |
 | Crime City | Developer | 2020 | Inactive | On Going |
+| StealzDupe | Developer | 2022 | Active | Terminated |
+| Blossom | Moderator | 2022 | Semi-Active | Terminated |
 
 - - - -
 
@@ -127,15 +128,18 @@ Sorted by Postion
 | Dev Co | Developer | 2020 | Inactive | Terminated |
 | Crime City | Developer | 2020 | Inactive | On Going |
 | Astreminix | Developer | 2021 | Semi-Active | Topic Changed, Terminated |
+| StealzDupe | Developer | 2022 | Active | Terminated |
 | Lost in Space | Admin | 2019 | Inactive | On Going |
 | School MC Server | Admin | 2020 | Closed | Resigned |
 | Waffle | Admin | 2021 | Closed | Terminated |
 | Frenzi | Admin | 2021 | Inactive | On Going |
 | EpixCraft | Admin | 2021 | Inactive | Unknown |
 | Astreminix 3 | Admin | 2021 | Inactive | On Going |
+| Blossom | Moderator | 2022 | Semi-Active | Terminated |
 | OverWorld | Helper | 2021 | Closed | Terminated 
 | Luna | Helper | 2021 | Closed | Unknown |
 | Some PetSimX Server | Ticket Manger | 2021 | Inactive | On Going |
+
 [^1]: Sorted by Position Above 🔼
 
 - - - -
