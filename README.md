@@ -10,6 +10,7 @@ Username: AlmondDrop11
 * <a href="https://github.com/EldariaDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-Eldaria-blue"></a>
 * <a href="mailto:// EldariaDevelopment@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Eldaria-Email-blue"></a>
 * <a href="https://eldaria.fandom.com/wiki/Eldaria_Wiki" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Wiki-Eldaria-blue"></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment)](https://github.com/EldariaDevelopment/github-readme-stats)
 
 - - -
 
