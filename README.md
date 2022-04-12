@@ -1,3 +1,10 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp&border_radius=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp)](https://github.com/EldariaDevelopment/github-readme-stats)
+# Languages and tool i use:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+- - -
 # Introduction
 I create multiplayer experiences for Minecraft, Java Edition, and assisted with the development, structure, and moderation for countless(Not Really servers.
 
@@ -10,7 +17,6 @@ Username: AlmondDrop11
 * <a href="https://github.com/EldariaDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-Eldaria-blue"></a>
 * <a href="mailto:// EldariaDevelopment@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Eldaria-Email-blue"></a>
 * <a href="https://eldaria.fandom.com/wiki/Eldaria_Wiki" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Wiki-Eldaria-blue"></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&show_icons=true&theme=onedark)
 
 
 - - -
