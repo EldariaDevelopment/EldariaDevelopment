@@ -6,7 +6,7 @@
 
 - - -
 # Introduction
-I create multiplayer experiences for Minecraft, Java Edition, and assisted with the development, structure, and moderation for countless(Not Really servers.
+I am a Full Stack Web developer and a Skripter. I am practicing producing Java plugins, and learning more CSS. I program(med) for many players
 
 
 # Information
