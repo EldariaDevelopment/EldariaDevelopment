@@ -6,7 +6,7 @@
 
 - - -
 # Introduction
-I am a Full Stack Web developer and a Skripter. I am practicing producing Java plugins, and learning more CSS. I program(med) for many players
+I am a Full Stack Web developer and a Skripter. I am practicing producing Java plugins, and learning more CSS. I've programmed for many servers over 2 years of development
 
 
 # Information
