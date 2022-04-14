@@ -24,8 +24,6 @@ Username: AlmondDrop11
 # Interests/Hobbies
 
 * Python and Skript Programming
-* Failing School :trollface:
-* Flipping Balisongs 
 
 - - -
 
