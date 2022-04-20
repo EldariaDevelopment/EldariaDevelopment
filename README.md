@@ -55,14 +55,12 @@ Username: AlmondDrop11
 
 # Server | Occupation:
 
-| Server | Role | Year |
+| Server | Role | Year | Member Count |
 | :----: | :----: | :----: |
-| School | Student | 2077 |
-| 5G | Moderator | 2022 |
- Chilli Bedwars |  Discord Moderator  | 2022 |
-| Eebo Smp |  Discord Helper  |  2022 |
-| Suited Game |  Discord Staff Member  | 2022 |
-| Project: City RP |  Developer  | 2021 | 
+| School | Student | 2077 | at least 6 |
+| Whisper Advertising | Helper 2022 | 3700 |
+| Suited Game |  Discord Staff Member  | 2022 | Semi-Inactive |
+| Project: City RP |  Developer  | 2021 | Inactive |
 
 - - - -
 
@@ -93,6 +91,9 @@ Sorted by Year, Position [^1]
 | Crime City | Developer | 2020 | Inactive | On Going |
 | StealzDupe | Developer | 2022 | Active | Terminated |
 | Blossom | Moderator | 2022 | Semi-Active | Terminated |
+ Chilli Bedwars |  Discord Moderator  | 2022 | Inactive | resigned |
+| Eebo Smp |  Discord Helper  |  2022 | Inactive | resigned |
+| 5G | Moderator | 2022 | Closed | Closed |
 
 - - - -
 
