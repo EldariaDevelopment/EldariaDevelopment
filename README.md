@@ -56,7 +56,7 @@ Username: AlmondDrop11
 # Server | Occupation:
 
 | Server | Role | Year | Member Count |
-| :----: | :----: | :----: |
+| :----: | :----: | :----: | :----: |
 | School | Student | 2077 | at least 6 |
 | Whisper Advertising | Helper 2022 | 3700 |
 | Suited Game |  Discord Staff Member  | 2022 | Semi-Inactive |
