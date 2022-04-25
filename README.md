@@ -1,5 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp&border_radius=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&hide_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp)](https://github.com/EldariaDevelopment/github-readme-stats)
+![Potato](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&amp&border_radius=20&hide_border)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&show_icons=true&theme=tokyonight&amp&border_radius=20&hide_border)](https://github.com/EldariaDevelopment/github-readme-stats)
+![Stats](https://activity-graph.herokuapp.com/graph?username=EldariaDevelopment&hide_border=true&theme=gruvbox"&layout=compact&amp;show_icons=true&amp&border_radius=20)
 # Languages and tool i use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
