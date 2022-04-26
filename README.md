@@ -1,6 +1,5 @@
-![Potato](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&amp&border_radius=20&hide_border)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&show_icons=true&theme=tokyonight&amp&border_radius=20&hide_border)](https://github.com/EldariaDevelopment/github-readme-stats)
-![Stats](https://activity-graph.herokuapp.com/graph?username=EldariaDevelopment&hide_border=true&theme=gruvbox"&layout=compact&amp;show_icons=true&amp&border_radius=20)
+![Potato](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&show_icons=true&theme=tokyonight&border_radius=20&border_color=#000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&show_icons=true&theme=tokyonight&border_radius=20&border_color=#000000)](https://github.com/EldariaDevelopment/github-readme-stats)
 # Languages and tool i use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -59,6 +58,7 @@ Username: AlmondDrop11
 | Server | Role | Year | Member Count |
 | :----: | :----: | :----: | :----: |
 | School | Student | 2077 | at least 6 |
+| Fire Network | Developer / Moderation | 2022 | 100+ |
 | Whisper Advertising | Helper | 2022 | 3700 |
 | Suited Game |  Discord Staff Member  | 2022 | Semi-Inactive |
 | Project: City RP |  Developer  | 2021 | Inactive |
