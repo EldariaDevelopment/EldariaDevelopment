@@ -1,5 +1,6 @@
-![Potato](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&show_icons=true&theme=tokyonight&border_radius=20&border_color=#000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&show_icons=true&theme=tokyonight&border_radius=20&border_color=#000000)](https://github.com/EldariaDevelopment/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=000000&border_radius=20&show_icons=true&icon_color=fff)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=000000&border_radius=20&show_icons=true&icon_color=fff)
+
 # Languages and tool i use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -142,4 +143,5 @@ Sorted by Postion
 [^1]: Sorted by Position Above 🔼
 
 - - - -
-
+![Potato](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&show_icons=true&theme=tokyonight&border_radius=20&border_color=#000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&show_icons=true&theme=tokyonight&border_radius=20&border_color=#000000)](https://github.com/EldariaDevelopment/github-readme-stats)
