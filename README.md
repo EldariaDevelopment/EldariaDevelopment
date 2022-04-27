@@ -10,16 +10,19 @@ class Almond:
     self.tools = tools
 
   def Almond(self):
-    print("Pronouns:", self.pronouns)
     print("Name:", self.name)
+    print("Age:", self.age)
+    print("Pronouns:", self.pronouns)
     print("Tools:", self.tools)
+    
 
 Almond = Almond("She/Her", "Almond", 14, "VS Code, Intellij")
 Almond.Almond()
 ```
 ```md
-Pronouns: She/Her
 Name: Almond
+Age: 14
+Pronouns: She/Her
 Tools: VS Code, Intellij
 ```
 
