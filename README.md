@@ -57,7 +57,6 @@ IV.  Attempting to expand my programming knowledge.
 | Server | Role | Year | Member Count |
 | :----: | :----: | :----: | :----: |
 | School | Student | 2077 | at least 6 |
-| Fire Network | Developer / Moderation | 2022 | 100+ |
 | Whisper Advertising | Helper | 2022 | 3700 |
 | Suited Game |  Discord Staff Member  | 2022 | Semi-Inactive |
 | Project: City RP |  Developer  | 2021 | Inactive |
@@ -91,9 +90,10 @@ Sorted by Year, Position [^1]
 | Crime City | Developer | 2020 | Inactive | On Going |
 | StealzDupe | Developer | 2022 | Active | Terminated |
 | Blossom | Moderator | 2022 | Semi-Active | Terminated |
- Chilli Bedwars |  Discord Moderator  | 2022 | Inactive | resigned |
-| Eebo Smp |  Discord Helper  |  2022 | Inactive | resigned |
+ Chilli Bedwars |  Discord Moderator  | 2022 | Inactive | Resigned |
+| Eebo Smp |  Discord Helper  |  2022 | Inactive | Resigned |
 | 5G | Moderator | 2022 | Closed | Closed |
+| Fire Network | Developer / Moderation | 2022 | Terminated |
 
 - - - -
 
