@@ -1,55 +1,31 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=000000&border_radius=20&show_icons=true&icon_color=fff)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=000000&border_radius=20&show_icons=true&icon_color=fff)
 
-# Languages and tool i use:
+# Languages and tool I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 - - -
 # Introduction
-I am a Beginner Full Stack Web developer and a Intermediate Skripter. I am practicing Java, and learning more CSS. I've programmed for many servers over 2 years of development
+I am a Beginner Full Stack Web developer and a Intermediate Skripter. I am practicing Java, and learning more CSS. I've programmed for many servers over 3 years of development
 
 
 # Information
 Username: AlmondDrop11
-* Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper
-* <a href="https://github.com/MoonDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-MoonMc-blue"></a>
-* <a href="mailto://moonmcmanagement@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/MoonMc-Email-blue"></a>
-* <a href="https://github.com/EldariaDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-Eldaria-blue"></a>
-* <a href="mailto:// EldariaDevelopment@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Eldaria-Email-blue"></a>
-* <a href="https://eldaria.fandom.com/wiki/Eldaria_Wiki" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Wiki-Eldaria-blue"></a>
-
-
-- - -
-
-# Interests/Hobbies
-
-* Python and Skript Programming
+* Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper  
+I.   <a href="https://github.com/MoonDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-MoonMc-blue"></a>  
+II.  <a href="mailto://moonmcmanagement@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/MoonMc-Email-blue"></a>  
+III. <a href="https://github.com/EldariaDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-Eldaria-blue"></a>  
+IV.  <a href="mailto:// EldariaDevelopment@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Eldaria-Email-blue"></a>  
+V.   <a href="https://eldaria.fandom.com/wiki/Eldaria_Wiki" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Wiki-Eldaria-blue"></a>  
 
 - - -
 
 # Current Projects
-* [LifeSteal](https://github.com/EldariaDevelopment/Skript-LifeSteal)
-* Learning Css, Python, Skript, and HTML.
-* Developing Complimentary Skripts.
-* Trying to expand my programming knowledge.
-
-- - - -
-
-# Topics/Things I am researching
-* Aerodynamics
-  * Angle of Attack
-* Chlorine
-* Programming
-  * Python
-  * Css
-  * Html
-  * Skript
-
-- - - -
-# Topics/Things I've researched
-* Zirconium
-* Car Wheel Types
+I.   [LifeSteal](https://eldariadevelopment.github.io/Skript-LifeSteal/)  
+II.  Practing  Css, Python, Skript, and HTML.  
+III. Developing Complimentary Skripts.  
+IV.  Attempting to expand my programming knowledge.  
 
 - - - -
 
