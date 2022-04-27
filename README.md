@@ -7,7 +7,7 @@
 
 - - -
 # Introduction
-I am a full stack web developer and a Skripter. I am practicing Java, and learning more CSS. I've programmed for many servers over 2 years of development
+I am a Beginner Full Stack Web developer and a Intermediate Skripter. I am practicing Java, and learning more CSS. I've programmed for many servers over 2 years of development
 
 
 # Information
