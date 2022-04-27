@@ -29,8 +29,7 @@ Username: AlmondDrop11
 - - -
 
 # Current Projects
-
-* Skript Lifesteal https://github.com/EldariaDevelopment/Skript-LifeSteal
+* [LifeSteal](https://github.com/EldariaDevelopment/Skript-LifeSteal)
 * Learning Css, Python, Skript, and HTML.
 * Developing Complimentary Skripts.
 * Trying to expand my programming knowledge.
