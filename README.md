@@ -1,16 +1,9 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=000000&border_radius=20&show_icons=true&icon_color=fff)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=000000&border_radius=20&show_icons=true&icon_color=fff)
 
-# Languages and tool I use:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-- - -
-# Introduction
+## Introduction
 I am a Beginner Full Stack Web developer and a Intermediate Skripter. I am practicing Java, and learning more CSS. I've programmed for many servers over 3 years of development. I am 14 and have had experience with, server development, server hosting, Skript, moderation, management, administration, and event hosting.
 
 
-# Information
+## Information
 Username: AlmondDrop11
 * Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper  
 I.   <a href="https://github.com/MoonDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-MoonMc-blue"></a>  
@@ -19,9 +12,19 @@ III. <a href="https://github.com/EldariaDevelopmentMc" target="_blank"><img alt=
 IV.  <a href="mailto:// EldariaDevelopment@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Eldaria-Email-blue"></a>  
 V.   <a href="https://eldaria.fandom.com/wiki/Eldaria_Wiki" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Wiki-Eldaria-blue"></a>  
 
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=000000&border_radius=20&show_icons=true&icon_color=fff)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=000000&border_radius=20&show_icons=true&icon_color=fff)
+
+## Languages and tool I use:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+- - -
 - - -
 
-# Current Projects
+## Current Projects
 I.   [LifeSteal](https://eldariadevelopment.github.io/Skript-LifeSteal/)  
 II.  Practing  Css, Python, Skript, and HTML.  
 III. Developing Complimentary Skripts.  
@@ -29,7 +32,7 @@ IV.  Attempting to expand my programming knowledge.
 
 - - - -
 
-# Server | Occupation:
+## Server | Occupation:
 
 | Server | Role | Year | Member Count |
 | :----: | :----: | :----: | :----: |
@@ -41,7 +44,7 @@ IV.  Attempting to expand my programming knowledge.
 
 - - - -
 
-# Departed | Archived Development Projects:
+## Departed | Archived Development Projects:
 
 Sorted by Year, Position [^1]
 | Server | Role | Year | Server Status | Position Status |
