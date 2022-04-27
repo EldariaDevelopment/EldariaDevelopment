@@ -16,7 +16,12 @@ class Almond:
 
 Almond = Almond("She/Her", "Almond", 14, "VS Code, Intellij")
 Almond.Almond()
-````
+```
+```md
+Pronouns: She/Her
+Name: Almond
+Tools: VS Code, Intellij
+```
 
 ## Information
 Username: AlmondDrop11
