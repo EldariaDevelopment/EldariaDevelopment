@@ -7,7 +7,7 @@
 
 - - -
 # Introduction
-I am a Beginner Full Stack Web developer and a Intermediate Skripter. I am practicing Java, and learning more CSS. I've programmed for many servers over 3 years of development
+I am a Beginner Full Stack Web developer and a Intermediate Skripter. I am practicing Java, and learning more CSS. I've programmed for many servers over 3 years of development. I am 14 and have had experience with, server development, server hosting, Skript, moderation, management, administration, and event hosting.
 
 
 # Information
