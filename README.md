@@ -1,7 +1,22 @@
 
 ## Introduction
 I am a Beginner Full Stack Web developer and a Intermediate Skripter. I am practicing Java, and learning more CSS. I've programmed for many servers over 3 years of development. I am 14 and have had experience with, server development, server hosting, Skript, moderation, management, administration, and event hosting.
+```python
+class Almond:
+  def __init__(self, pronouns, name, age, tools):
+    self.name = name
+    self.pronouns = pronouns
+    self.age = age
+    self.tools = tools
 
+  def Almond(self):
+    print("Pronouns:", self.pronouns)
+    print("Name:", self.name)
+    print("Tools:", self.tools)
+
+Almond = Almond("She/Her", "Almond", 14, "VS Code, Intellij")
+Almond.Almond()
+````
 
 ## Information
 Username: AlmondDrop11
