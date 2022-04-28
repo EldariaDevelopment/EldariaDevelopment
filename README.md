@@ -141,3 +141,18 @@ Sorted by Postion
 [^1]: Sorted by Position Above 🔼
 
 - - - -
+```java
+import java.util.HashMap;
+
+public class Main {
+  public static void main(String[] args) {
+    HashMap<String, String> Almond = new HashMap<String, String>();
+
+    Almond.put("Name: ", "Almond");
+    Almond.put("Age: ", "14");
+    Almond.put("Pronouns: ", "She/Her");
+    Almond.put("Tools: ", "VS Code", Intellij);
+    System.out.println(Almond);
+  }
+}
+```
