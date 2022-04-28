@@ -147,12 +147,10 @@ import java.util.HashMap;
 public class Main {
   public static void main(String[] args) {
     HashMap<String, String> Almond = new HashMap<String, String>();
-
-    Almond.put("Name: ", "Almond");
-    Almond.put("Age: ", "14");
-    Almond.put("Pronouns: ", "She/Her");
-    Almond.put("Tools: ", "VS Code", Intellij);
+    Almond.put("Name: ", "Almond\n");
+    Almond.put("Age: ", "14\n");
+    Almond.put("Pronouns: ", "She/Her/n");
+    Almond.put("Tools: ", "VS Code, Intellij/n");
     System.out.println(Almond);
-  }
 }
 ```
