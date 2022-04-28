@@ -37,9 +37,7 @@ V.   <a href="https://eldaria.fandom.com/wiki/Eldaria_Wiki" target="_blank"><img
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=000000&border_radius=20&show_icons=true&icon_color=fff)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_color=000000&border_radius=20&show_icons=true&icon_color=fff)
-
+<a href="https://eldariadevelopment.github.io/Skript-LifeSteal//"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 ## Languages and tool I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
