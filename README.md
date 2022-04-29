@@ -1,6 +1,6 @@
 
 ## Introduction
-I am a Full Stack Web developer and a intermediate-advanced Skripter. I am practicing Java, and learning CSS and HTML. I've programmed for many servers over 3 years of development. I am 14 and have had experience with, server development, server hosting, Skript, moderation, management, administration, and event hosting.
+I am a full-stack web developer using and a intermediate-advanced Skripter. I am practicing Java, and learning CSS and HTML. I've programmed for many servers over 3 years of development. I am 14 and have had experience with, server development, server hosting, Skript, moderation, management, administration, and event hosting.
 ```python
 class Almond:
   def __init__(self, pronouns, name, age, tools):
@@ -27,14 +27,8 @@ Tools: VS Code, Intellij
 ```
 
 ## Information
-Username: AlmondDrop11
-* Title(s): Owner, Co-Owner, Developer, Administrator, Moderator, Ticket Mananger, Manager, and Helper  
-  * <a href="https://github.com/MoonDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-MoonMc-blue"></a>  
-  * <a href="mailto://moonmcmanagement@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/MoonMc-Email-blue"></a>  
-  * <a href="https://github.com/EldariaDevelopmentMc" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Organization-Eldaria-blue"></a>  
-  * <a href="mailto:// EldariaDevelopment@gmail.com" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Eldaria-Email-blue"></a>  
-  * <a href="https://eldaria.fandom.com/wiki/Eldaria_Wiki" target="_blank"><img alt="website" align="center" src="https://img.shields.io/badge/Wiki-Eldaria-blue"></a>  
-
+Username: AlmondDrop11 
+Discord: Almondz#9877
 ---
 
 <a href="https://eldariadevelopment.github.io/Skript-LifeSteal//"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&langs_count=10&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
