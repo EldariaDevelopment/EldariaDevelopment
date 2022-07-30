@@ -6,17 +6,15 @@ class Almond:
   def __init__(self, pronouns, name, age, tools):
     self.name = name
     self.pronouns = pronouns
-    self.age = age
     self.tools = tools
 
   def Almond(self):
     print("Name:", self.name)
-    print("Age:", self.age)
     print("Pronouns:", self.pronouns)
     print("Tools:", self.tools)
     
 
-Almond = Almond("She/Her", "Almond", 14, "VS Code, Intellij")
+Almond = Almond("She/Her", "Almond", "VS Code, Intellij")
 Almond.Almond()
 ```
 ```md
@@ -142,7 +140,6 @@ public class Main {
   public static void main(String[] args) {
     HashMap<String, String> Almond = new HashMap<String, String>();
     Almond.put("Name: ", "Almond\n");
-    Almond.put("Age: ", "14\n");
     Almond.put("Pronouns: ", "She/Her/n");
     Almond.put("Tools: ", "VS Code, Intellij/n");
     System.out.println(Almond);
