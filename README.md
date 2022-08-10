@@ -19,7 +19,6 @@ Almond.Almond()
 ```
 ```md
 Name: Almond
-Age: 14
 Pronouns: She/Her
 Tools: VS Code, Intellij
 ```
