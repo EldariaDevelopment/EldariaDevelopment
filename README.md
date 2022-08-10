@@ -88,21 +88,6 @@ Sorted by Year, Position [^1]
 
 - - - -
 
-<dl>
-  <dt>Archived, Term 1</dt>
-  <dd>Place or store (something) in an archive.</dd>
-  <dt>Past, Term 2</dt>
-  <dd>Gone by in time and no longer existing.</dd>
-  <dt>Sometimes, Term 3</dt>
-  <dd>occasionally, rather than all of the time.</dd>
-  <dt>Terminated, Term 4</dt>
-  <dd>Bring to an end.</dd>
-  <dt>Closed, Term 5</dt>
-  <dd>Cease business or operation, especially permanently.</dd>
-</dl>
-
-- - - -
-
 Sorted by Postion
 | Server | Role | Year | Server Status | Position Status |
 | :----: | :----: | :----: | :----: | :----: |
@@ -129,18 +114,4 @@ Sorted by Postion
 | Luna | Helper | 2021 | Closed | Unknown |
 | Some PetSimX Server | Ticket Manger | 2021 | Inactive | On Going |
 
-[^1]: Sorted by Position Above 🔼
-
-- - - -
-```java
-import java.util.HashMap;
-
-public class Main {
-  public static void main(String[] args) {
-    HashMap<String, String> Almond = new HashMap<String, String>();
-    Almond.put("Name: ", "Almond\n");
-    Almond.put("Pronouns: ", "She/Her/n");
-    Almond.put("Tools: ", "VS Code, Intellij/n");
-    System.out.println(Almond);
-}
-```
+[^1]: Sorted by Position Above
