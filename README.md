@@ -48,6 +48,10 @@ IV.  Attempting to expand my programming knowledge.
 | Server | Role | Year | Member Count |
 | :----: | :----: | :----: | :----: |
 | School | Student | 2077 | at least 6 |
+| Studio Grapthics | Developer | 2022 | 20 |
+| Unnamed server | Developer | 2022 | ~Server hasn't released | 
+| AfterNet | Developer | 2022 | ~Server hasn't released yet |
+| NavaLabs | Chat Moderator | 2022 | ~200 |
 | Whisper Advertising | Helper | 2022 | 4000 |
 | Suited Game |  Discord Staff Member  | 2022 | Semi-Inactive |
 | Project: City RP |  Developer  | 2021 | Inactive |
