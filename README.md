@@ -53,7 +53,7 @@ IV.  Attempting to expand my programming knowledge.
 | AfterNet | Developer | 2022 | ~Server hasn't released yet |
 | NavaLabs | Chat Moderator | 2022 | ~200 |
 | Whisper Advertising | Helper | 2022 | 4000 |
-| Suited Game |  Discord Staff Member  | 2022 | Semi-Inactive |
+| Suited Game |  Discord Staff Member  | 2022 | Inactive |
 | Project: City RP |  Developer  | 2021 | Inactive |
 
 - - - -
