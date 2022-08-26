@@ -1,6 +1,6 @@
 
 ## Introduction
-I am a front-end web developer using HTML and CSS. I am an intermediate-advanced Skripter. I am practicing Java. I've programmed for many servers over 3 years of development. I've had experience in a lot of shit haha
+I am an intermediate-advanced Skripter. I am practicing Java. I've programmed for many servers over 3 years of development.
 ```python
 class Almond:
   def __init__(self, pronouns, name, age, tools):
