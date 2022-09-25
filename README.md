@@ -1,6 +1,7 @@
 
-## Introduction
-I am an intermediate Skripter, trying to make help the community everywhere I go. I am practicing Java, JavaScript, And HTML. I've programmed for many servers over 3 years of development.
+<h1>Introduction</h1>
+<p>I am an intermediate Skripter, trying to make help the community everywhere I go. I am practicing Java, JavaScript, And HTML. I've programmed for many servers over 3 years of development.</p>
+
 ```python
 class Almond:
   def __init__(self, pronouns, name, age, tools):
@@ -22,32 +23,21 @@ Name: Almond
 Pronouns: She/Her
 Tools: VS Code, Intellij
 ```
-
-## Information
-Username: AlmondDrop11 
-Discord: Almondz#9877
----
-
-<a href="https://eldariadevelopment.github.io/Skript-LifeSteal//"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&langs_count=4&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-## Languages and tool I use:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-- - -
-
-## Current Projects
-I.   [LifeSteal](https://eldariadevelopment.github.io/Skript-LifeSteal/)  
-II.  Practing  Css, Python, Skript, and HTML.  
-III. Developing Complimentary Skripts.  
-IV.  Attempting to expand my programming knowledge.  
-
-- - - -
-
-## Server | Occupation:
+<hr>
+<h3>Information</h3>
+<p>Minecraft Username: Almondz_ <br> Discord: Almondz#9877 </p>
+<hr>
+<a href="https://eldariadevelopment.github.io/Skript-LifeSteal//"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,0c232a,0b2128,0b2128&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&langs_count=4&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,0b2128,0b2128,0b2128&theme=graywhite" /></a>
+<h3>Languages and tool I use:</h3>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <br>
+<hr>
+<h3>Server | Occupation:</h3>
 
 | Server | Role | Year | Member Count |
 | :----: | :----: | :----: | :----: |
 | School | Student | 2077 | at least 6 |
+| Starcade Evolution | 2022 | ~160 |
+| Flame Community | Management | 2022 | ~200 |
 | Studio Grapthics | Developer | 2022 | 20 |
 | Unnamed server | Developer | 2022 | ~Server hasn't released | 
 | AfterNet | Developer | 2022 | ~Server hasn't released yet |
@@ -55,10 +45,8 @@ IV.  Attempting to expand my programming knowledge.
 | Whisper Advertising | Helper | 2022 | 4000 |
 | Suited Game |  Discord Staff Member  | 2022 | Inactive |
 | Project: City RP |  Developer  | 2021 | Inactive |
-
-- - - -
-
-## Departed | Archived Development Projects:
+<hr>
+<h3>Departed | Archived Development Projects:</h3>
 
 Sorted by Year, Position [^1]
 | Server | Role | Year | Server Status | Position Status |
@@ -90,7 +78,7 @@ Sorted by Year, Position [^1]
 | 5G | Moderator | 2022 | Closed | Closed |
 | Fire Network | Developer / Moderation | 2022 | Terminated |
 
-- - - -
+<hr>
 
 Sorted by Postion
 | Server | Role | Year | Server Status | Position Status |
