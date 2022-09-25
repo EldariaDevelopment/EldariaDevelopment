@@ -36,14 +36,13 @@ Tools: VS Code, Intellij
 | Server | Role | Year | Member Count |
 | :----: | :----: | :----: | :----: |
 | School | Student | 2077 | at least 6 |
-| Starcade Evolution | 2022 | ~160 |
+| Starcade Evolution | Trainee| 2022 | ~160 |
 | Flame Community | Management | 2022 | ~200 |
 | Studio Grapthics | Developer | 2022 | 20 |
 | Unnamed server | Developer | 2022 | ~Server hasn't released | 
 | AfterNet | Developer | 2022 | ~Server hasn't released yet |
-| NavaLabs | Chat Moderator | 2022 | ~200 |
-| Whisper Advertising | Helper | 2022 | 4000 |
-| Suited Game |  Discord Staff Member  | 2022 | Inactive |
+| NavaLabs | Helper | 2022 | ~200 |
+| Whisper Advertising | Moderator | 2022 | 4000 |
 | Project: City RP |  Developer  | 2021 | Inactive |
 <hr>
 <h3>Departed | Archived Development Projects:</h3>
@@ -77,6 +76,7 @@ Sorted by Year, Position [^1]
 | Eebo Smp |  Discord Helper  |  2022 | Inactive | Resigned |
 | 5G | Moderator | 2022 | Closed | Closed |
 | Fire Network | Developer / Moderation | 2022 | Terminated |
+| Suited Game |  Discord Staff Member  | 2022 | Inactive |
 
 <hr>
 
@@ -102,6 +102,7 @@ Sorted by Postion
 | EpixCraft | Admin | 2021 | Inactive | Unknown |
 | Astreminix 3 | Admin | 2021 | Inactive | On Going |
 | Blossom | Moderator | 2022 | Semi-Active | Terminated |
+| Suited Game |  Discord Staff Member  | 2022 | Inactive |
 | OverWorld | Helper | 2021 | Closed | Terminated 
 | Luna | Helper | 2021 | Closed | Unknown |
 | Some PetSimX Server | Ticket Manger | 2021 | Inactive | On Going |
