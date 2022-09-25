@@ -1,6 +1,6 @@
 
 ## Introduction
-I am an intermediate-advanced Skripter, trying to make help the community everywhere I go. I am practicing Java. I've programmed for many servers over 3 years of development.
+I am an intermediate Skripter, trying to make help the community everywhere I go. I am practicing Java, JavaScript, And HTML. I've programmed for many servers over 3 years of development.
 ```python
 class Almond:
   def __init__(self, pronouns, name, age, tools):
