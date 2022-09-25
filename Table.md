@@ -65,4 +65,13 @@
 </body>
 </html>
 
-
+| Server | Role | Year | Member Count |
+| :----: | :----: | :----: | :----: |
+| School | Student | 2077 | at least 6 |
+| Starcade Evolution | Trainee| 2022 | ~160 |
+| Flame Community | Management | 2022 | ~200 |
+| Studio Grapthics | Developer | 2022 | 20 |
+| AfterNet | Developer | 2022 | ~Server hasn't released yet |
+| NavaLabs | Helper | 2022 | ~200 |
+| Whisper Advertising | Moderator | 2022 | 4000 |
+| Project: City RP |  Developer  | 2021 | Inactive |
