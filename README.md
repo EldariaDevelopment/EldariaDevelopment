@@ -39,7 +39,6 @@ Tools: VS Code, Intellij
 | Starcade Evolution | Trainee| 2022 | ~160 |
 | Flame Community | Management | 2022 | ~200 |
 | Studio Grapthics | Developer | 2022 | 20 |
-| Unnamed server | Developer | 2022 | ~Server hasn't released | 
 | AfterNet | Developer | 2022 | ~Server hasn't released yet |
 | NavaLabs | Helper | 2022 | ~200 |
 | Whisper Advertising | Moderator | 2022 | 4000 |
