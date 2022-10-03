@@ -53,8 +53,21 @@ Almondz#9877
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-
-
+<h3>Some jokes<h3>
+	
+<h5>Why did the java developer need glasses?
+	<details>
+		<summary>Answer</summary>
+			because they coudn't C#
+	</details>
+	</h5>
+<h5>What are females in games?
+	<details>
+		<summary>Answer</summary>
+			Objects ( don't cancel me )
+	</details>
+	</h5>
+	
 <hr>
 <h3>Server | Occupation:</h3>
 <table>
