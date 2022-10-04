@@ -112,78 +112,11 @@ Almondz#9877
 		<td>2022-2022</td>
 		<td>~5000</td>
 	</tr>
-		<tr>
-		<td>Project: City RP</td>
-		<td>Developer</td>
-		<td>2021-2022</td>
-		<td>Inactive</td>
-	</tr>
+
 		
 </table>
 <hr>
-<h3>Departed | Archived Development Projects:</h3>
 
-Sorted by Year, Position [^1]
-| Server | Role | Year | Server Status | Position Status |
-| :----: | :----: | :----: | :----: | :----: |
-| Lost in Space | Admin | 2019 | Inactive | On Going |
-| School MC Server | Admin | 2020 | Closed | Resigned |
-| WaterMelon Development | Developer | 2020 | Closed | Terminated |
-| Ender Watchers | Community Manager | 2020 | Closed/Inactive | Resigned |
-| Eldaria | Owner | 2020 | Closed | Unknown |
-| Waffle | Admin | 2021 | Closed | Terminated |
-| Frenzi | Admin | 2021 | Inactive | On Going |
-| Nightmare Smp | Head Developer | 2021 | Closed | Terminated | 
-| Visionz Academy | Co-Owner | 2021 | Inactive | On Going |
-| The Mafia Squad | Discord Developer | 2021  | Inactive | On Going |
-| Astreminix | Developer | 2021 | Semi-Active | Topic Changed, Terminated |
-| Luna | Helper | 2021 | Closed | Unknown |
-| Astreminix 3 | Admin | 2021 | Inactive | On Going |
-| OverWorld | Helper | 2021 | Closed | Terminated |
-| EpixCraft | Admin | 2021 | Inactive | Unknown |
-| Some PetSimX Server | Ticket Manger | 2021 | Inactive | On Going |
-| Red Apple Studios | Co-Owner | 2020 | Inactive | On Going |
-| Warmkj's Server | Developer | 2020 | Inactive | On Going |
-| Dev Co | Developer | 2020 | Inactive | Terminated |
-| Crime City | Developer | 2020 | Inactive | On Going |
-| StealzDupe | Developer | 2022 | Active | Terminated |
-| Blossom | Moderator | 2022 | Semi-Active | Terminated |
- Chilli Bedwars |  Discord Moderator  | 2022 | Inactive | Resigned |
-| Eebo Smp |  Discord Helper  |  2022 | Inactive | Resigned |
-| 5G | Moderator | 2022 | Closed | Closed |
-| Fire Network | Developer / Moderation | 2022 | Terminated |
-| Suited Game |  Discord Staff Member  | 2022 | Inactive |
-
-<hr>
-
-Sorted by Postion
-| Server | Role | Year | Server Status | Position Status |
-| :----: | :----: | :----: | :----: | :----: |
-| Eldaria | Owner | 2020 | Closed | Unknown |
-| Red Apple Studios | Co-Owner | 2020 | Inactive | On Going |
-| Visionz Academy | Co-Owner | 2021 | Inactive | On Going |
-| Ender Watchers | Community Manager | 2020 | Closed/Inactive | Resigned |
-| Nightmare Smp | Head Developer | 2021 | Closed | Terminated |
-| The Mafia Squad | Discord Developer | 2021  | Inactive | On Going |
-| Warmkj's Server | Developer | 2020 | Inactive | On Going |
-| WaterMelon Development | Developer | 2020 | Closed | Terminated |
-| Dev Co | Developer | 2020 | Inactive | Terminated |
-| Crime City | Developer | 2020 | Inactive | On Going |
-| Astreminix | Developer | 2021 | Semi-Active | Topic Changed, Terminated |
-| StealzDupe | Developer | 2022 | Active | Terminated |
-| Lost in Space | Admin | 2019 | Inactive | On Going |
-| School MC Server | Admin | 2020 | Closed | Resigned |
-| Waffle | Admin | 2021 | Closed | Terminated |
-| Frenzi | Admin | 2021 | Inactive | On Going |
-| EpixCraft | Admin | 2021 | Inactive | Unknown |
-| Astreminix 3 | Admin | 2021 | Inactive | On Going |
-| Blossom | Moderator | 2022 | Semi-Active | Terminated |
-| Suited Game |  Discord Staff Member  | 2022 | Inactive |
-| OverWorld | Helper | 2021 | Closed | Terminated 
-| Luna | Helper | 2021 | Closed | Unknown |
-| Some PetSimX Server | Ticket Manger | 2021 | Inactive | On Going |
-
-[^1]: Sorted by Position Above
 ```js
 switch(day) {
   case "School Day":
