@@ -60,13 +60,6 @@ Almondz#9877
 		<summary>Answer</summary>
 			because they coudn't C#
 	</details>
-	</h5>
-<h5>What are females in games?
-	<details>
-		<summary>Answer</summary>
-			Objects ( don't cancel me )
-	</details>
-	</h5>
 	
 <hr>
 <h3>Server | Occupation:</h3>
