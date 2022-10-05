@@ -102,7 +102,7 @@ Almondz#9877
 	</tr>  
 	<tr>
 		<td>NavaLabs</td>
-		<td>Helper</td>
+		<td>Staff Member</td>
 		<td>2022-2022</td>
 		<td>~200</td>
 	</tr>
