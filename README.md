@@ -37,7 +37,7 @@ Almondz#9877
 ```
 <hr>
 <a href="https://eldariadevelopment.github.io/Skript-LifeSteal//"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,141414,0b2128,0b2128&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&langs_count=4&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,0b2128,0b2128,0b2128&theme=graywhite" /></a>
-<h3>Languages and tool I use:</h3>
+<h3>Languages and IDEs I use:</h3>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
