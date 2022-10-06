@@ -24,13 +24,13 @@ Tools: VS Code, Intellij
 ```
 <hr>
 <h3>Information</h3>
-Minecraft Username: 
+<h4>Minecraft Username: </h4>
 
 ```md
 Almondz_
 ```
 
-Discord: 
+<h4>Discord:</h4>
 
 ```md
 Almondz#9877
@@ -66,7 +66,7 @@ Almondz#9877
 <h3>My System Information</h3>
 	<details>
 		<summary>
-			<h2>Chromebook</h2>
+			<h4>Chromebook</h4>
 		</summary>
 			<details>
 				<summary>
@@ -78,7 +78,7 @@ Almondz#9877
 				<summary>
 					<h4>GPU</h4>
 				</summary>
-				<h5>Name	HD Graphics 400/</h5>
+				<h5>Name	HD Graphics 400</h5>
 			</details>
 			<details>
 				<summary>
@@ -107,7 +107,7 @@ Almondz#9877
 	</details>
 	<details>
 		<summary>
-			<h2>Desktop 1</h2>
+			<h4>Desktop 1</h4>
 		</summary>
 			<details>
 				<summary>
@@ -149,44 +149,44 @@ Almondz#9877
 		</details>
 	<details>
 		<summary>
-			<h2>Desktop 2</h2>
+			<h4>Desktop 2</h4>
 		</summary>
 			<details>
 				<summary>
 					<h4>CPU</h4>
 				</summary>
-				<h5>Processor	Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, 2904 Mhz, 6 Core(s), 12 Logical Processor(s)
+				<h5>Processor	Missing Data
 				</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>GPU</h4>
 				</summary>
-				<h5>Name	NVIDIA GeForce GTX 1660 Ti<br>Name	Intel(R) UHD Graphics 630</h5>
+				<h5>Name	Missing Data<br>Name	Missing Data</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>RAM</h4>
 				</summary>
-				<h5>Installed Physical Memory (RAM)	16.0 GB</h5>
+				<h5>Installed Physical Memory (RAM)	Missing Data GB</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>System Model</h4>
 				</summary>
-				<h5>System Model	XPS 8940</h5>
+				<h5>System Model	Missing Data</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>System Manufacturer</h4>
 				</summary>
-				<h5>System Manufacturer	Dell Inc.</h5>
+				<h5>System Manufacturer	Missing Data</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>Storage</h4>
 				</summary>
-				<h5>Model	NVMe SHGP31-1000GM-2  Size	931.51 GB (1,000,202,273,280 bytes) <br> Model	TOSHIBA DT01ACA100 Size	931.51 GB (1,000,202,273,280 bytes)</h5>
+				<h5>Model	Missing Data  Size	Missing Data GB (Missing Data bytes)</h5>
 			</details>
 	</details>
 	
@@ -242,7 +242,6 @@ Almondz#9877
 		<td>~5000</td>
 	</tr>
 
-		
 </table>
 <hr>
 
