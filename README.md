@@ -37,20 +37,21 @@ Almondz#9877
 ```
 <hr>
 <a href="https://eldariadevelopment.github.io/Skript-LifeSteal//"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,141414,0b2128,0b2128&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&langs_count=4&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,0b2128,0b2128,0b2128&theme=graywhite" /></a>
-<h3>Languages and IDEs I use:</h3>
+<h3>IDEs and sites I use:</h3>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
+<h3>Languages I am learning</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 <h3>My OS</h3>
@@ -132,13 +133,13 @@ Almondz#9877
 				<summary>
 					<h4>System Model</h4>
 				</summary>
-				<h5>System Model	XPS 8940</h5>
+				<h5>System Model	N23</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>System Manufacturer</h4>
 				</summary>
-				<h5>System Manufacturer	Dell Inc.</h5>
+				<h5>System Manufacturer	Lenovo</h5>
 			</details>
 			<details>
 				<summary>
