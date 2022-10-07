@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-<p>I am an intermediate Skripter, trying to make help the community everywhere I go. I am practicing Java, JavaScript, And HTML. I've developed countless servers over a span of 3 years of development.</p>
+<p>I am an intermediate Skripter, trying to make help communties and organizations wherever I go. I am practicing Java, Skript, And HTML. I've developed and contributed to servers over a span of 3 years of development.</p>
 
 ```python
 class Almond:
