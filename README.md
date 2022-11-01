@@ -156,38 +156,38 @@ Almondz#9877
 				<summary>
 					<h4>CPU</h4>
 				</summary>
-				<h5>Processor	Missing Data
+				<h5>Processor	Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz, 2904 Mhz, 8 Core(s), 16 Logical Processor(s)
 				</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>GPU</h4>
 				</summary>
-				<h5>Name	Missing Data<br>Name	Missing Data</h5>
+				<h5>Name	AMD Radeon RX 5700 XT</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>RAM</h4>
 				</summary>
-				<h5>Installed Physical Memory (RAM)	Missing Data GB</h5>
+				<h5>Installed Physical Memory (RAM)	16.0 GB</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>System Model</h4>
 				</summary>
-				<h5>System Model	Missing Data</h5>
+				<h5>System Model	XPS 8940</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>System Manufacturer</h4>
 				</summary>
-				<h5>System Manufacturer	Missing Data</h5>
+				<h5>System Manufacturer	Dell Inc.</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>Storage</h4>
 				</summary>
-				<h5>Model	Missing Data  Size	Missing Data GB (Missing Data bytes)</h5>
+				<h5>Model	PC SN530 NVMe WDC 512GB 	476.94 GB (512,105,932,800 bytes)</h5>
 			</details>
 	</details>
 	
