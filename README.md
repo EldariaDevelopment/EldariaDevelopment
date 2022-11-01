@@ -238,7 +238,7 @@ Almondz#9877
 	</tr>
 		<tr>
 		<td>Whisper Advertising</td>
-		<td>Moderator</td>
+		<td>Mascot With Administrator Permissions</td>
 		<td>2022-2022</td>
 		<td>~5000</td>
 	</tr>
