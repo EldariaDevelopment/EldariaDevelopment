@@ -207,22 +207,10 @@ Almondz#9877
 		<td>~500</td>
 	</tr>
 		<tr>
-		<td>Starcade Evolution</td>
-		<td>Trainee</td>
-		<td>2022-2022</td>
-		<td>~160</td>
-	</tr>
-		<tr>
 		<td>Flame Community</td>
 		<td>Management</td>
 		<td>2022-2022</td>
 		<td>~200</td>
-	</tr>
-		<tr>
-		<td>Studio Grapthics</td>
-		<td>Developer</td>
-		<td>2022-2022</td>
-		<td>20</td>
 	</tr>
 		<tr>
 		<td>AfterNet</td>
@@ -241,6 +229,7 @@ Almondz#9877
 		<td>Mascot With Administrator Permissions</td>
 		<td>2022-2022</td>
 		<td>~5000</td>
+	
 	</tr>
 
 </table>
