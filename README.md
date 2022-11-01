@@ -248,8 +248,8 @@ Almondz#9877
 
 ```js
 switch(day) {
-  case "School Day":
-	alert("No time");
-  case "Weekend":
-	alert("Fun!")
+	case "School Day":
+		alert("No time");
+	case "Weekend":
+		alert("Fun!")
 ```
