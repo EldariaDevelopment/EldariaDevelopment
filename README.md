@@ -193,6 +193,7 @@ Almondz#9877
 	
 <hr>
 <h3>Server | Occupation:</h3>
+
 <table>
 	<tr>
 		<td>Server</td>
@@ -229,11 +230,9 @@ Almondz#9877
 		<td>Mascot With Administrator Permissions</td>
 		<td>2022-2022</td>
 		<td>~5000</td>
-	
-	</tr>
+		</tr>
 
 </table>
-<hr>
 
 ```js
 switch(day) {
