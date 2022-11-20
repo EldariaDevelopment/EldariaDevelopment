@@ -133,13 +133,13 @@ Almondz#9877
 				<summary>
 					<h4>System Model</h4>
 				</summary>
-				<h5>System Model	N23</h5>
+				<h5>System Model	XPS 8940</h5>
 			</details>
 			<details>
 				<summary>
 					<h4>System Manufacturer</h4>
 				</summary>
-				<h5>System Manufacturer	Lenovo</h5>
+				<h5>System Manufacturer	Dell Inc.</h5>
 			</details>
 			<details>
 				<summary>
