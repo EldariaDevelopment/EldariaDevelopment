@@ -214,10 +214,10 @@ Almondz#9877
 		<td>~200</td>
 	</tr>
 		<tr>
-		<td>AfterNet</td>
-		<td>Developer</td>
+		<td>IA Advertising</td>
+		<td>CHRO</td>
 		<td>2022-2022</td>
-		<td>N/A</td>
+		<td>~500</td>
 	</tr>  
 	<tr>
 		<td>NavaLabs</td>
@@ -227,7 +227,7 @@ Almondz#9877
 	</tr>
 		<tr>
 		<td>Whisper Advertising</td>
-		<td>Mascot With Administrator Permissions</td>
+		<td>Manager</td>
 		<td>2022-2022</td>
 		<td>~5000</td>
 		</tr>
