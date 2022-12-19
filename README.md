@@ -215,7 +215,7 @@ Almondz#9877
 	</tr>
 		<tr>
 		<td>IA Advertising</td>
-		<td>CHRO</td>
+		<td>HR</td>
 		<td>2022-2022</td>
 		<td>~500</td>
 	</tr>  
