@@ -1,8 +1,6 @@
 <h1>Introduction</h1>
 <p>I am an intermediate Skripter, trying to make help communties and organizations wherever I go. I am practicing Java, Skript, And HTML. I've developed and contributed to servers over a span of 3 years of development.</p>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
 ```python
 class Almond:
   def __init__(self, pronouns, name, age, tools):
