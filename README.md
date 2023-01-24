@@ -213,13 +213,6 @@ Almondz#9877
 		<td>2022-2022</td>
 		<td>~200</td>
 	</tr>
-		<tr>
-		<td>IA Advertising</td>
-		<td>HR</td>
-		<td>2022-2022</td>
-		<td>~500</td>
-	</tr>  
-	<tr>
 		<td>NavaLabs</td>
 		<td>Staff Member</td>
 		<td>2022-2022</td>
@@ -233,11 +226,16 @@ Almondz#9877
 		</tr>
 
 </table>
-
-```js
-switch(day) {
+<!-- 		<tr>
+		<td>IA Advertising</td>
+		<td>HR</td>
+		<td>2022-2022</td>
+		<td>~500</td>
+	</tr>  
+	<tr> -->
+<!-- switch(day) {
 	case "School Day":
 		alert("No time");
 	case "Weekend":
 		alert("Fun!")
-```
+ -->
