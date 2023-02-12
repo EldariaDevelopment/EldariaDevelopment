@@ -23,6 +23,9 @@ Pronouns: She/Her
 Tools: VS Code, Intellij
 ```
 <hr>
+
+![Alt text](https://gen.plancke.io/exp/Almondz_.png)
+
 <h3>Information</h3>
 <h4>Minecraft Username: </h4>
 
