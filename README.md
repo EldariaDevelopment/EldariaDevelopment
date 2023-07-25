@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-<p>I am an intermediate Skripter, trying to make help communties and organizations wherever I go. I am practicing Java, Skript, And HTML. I've developed and contributed to servers over a span of 3 years of development.</p>
+<p>I am Almond, as a prefatory introduction, I am a feverish individual with soliloquy and a displaced verve for the most lackluster or random topics and with dogmatic beliefs in utilitarianism and I am an intermediate Skripter, trying to make aid with the development of communties and organizations wherever I go. I've developed and contributed to servers over a span of 2 years of development. I have been in development, administration, moderation, and more.</p>
 
 ```python
 class Almond:
@@ -36,7 +36,7 @@ Almondz_
 <h4>Discord:</h4>
 
 ```md
-Almondz#9877
+Almondz#9877 / Almond3
 ```
 <hr>
 <a href="https://eldariadevelopment.github.io/Skript-LifeSteal//"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=EldariaDevelopment&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,141414,0b2128,0b2128&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldariaDevelopment&langs_count=4&hide_title=true&hide_border=true&text_color=000&icon_color=fff&bg_color=0,0b2128,0b2128,0b2128&theme=graywhite" /></a>
@@ -222,10 +222,10 @@ Almondz#9877
 		<td>~200</td>
 	</tr>
 		<tr>
-		<td>Whisper Advertising</td>
-		<td>Manager</td>
-		<td>2022-2022</td>
-		<td>~5000</td>
+		<td>Aquatic Promotions</td>
+		<td>Core Team</td>
+		<td>2022-2023</td>
+		<td>~4900</td>
 		</tr>
 
 </table>
