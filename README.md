@@ -1,6 +1,5 @@
 <h1>Introduction</h1>
-<p>I am Almond, as a prefatory introduction, I am a feverish individual with soliloquy and a displaced verve for the most lackluster or random topics and with dogmatic beliefs in utilitarianism and I am an intermediate Skripter, trying to make aid with the development of communties and organizations wherever I go. I've developed and contributed to servers over a span of 2 years of development. I have been in development, administration, moderation, and more.</p>
-
+Hi, I am Makenna! I am currently trying to learn Complex Analysis, Java Spigot, Dvorak, and more maths !! 
 ```python
 class Almond:
   def __init__(self, pronouns, name, age, tools):
