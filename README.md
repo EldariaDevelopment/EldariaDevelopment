@@ -1,21 +1,15 @@
 <h1>Introduction</h1>
 <p>Hi, I am Makenna! I am currently trying to learn Complex Analysis, Java Spigot, Dvorak, and more maths !! </p>
+<br>
+<br>
 
-```python
-class Almond:
-  def __init__(self, pronouns, name, age, tools):
-	self.name = name
-	self.pronouns = pronouns
-	self.tools = tools
-
-  def Almond(self):
-	print("Name:", self.name)
-	print("Pronouns:", self.pronouns)
-	print("Tools:", self.tools)
-	
-
-Almond = Almond("She/Her", "Almond", "VS Code, Intellij")
-Almond.Almond()
+```java
+public static WhoIam(String Name){
+	if(Name=="Makenna"){
+		System.out.println(Silly girl);
+	}
+}
+Silly.WhoIam("Makenna"); 
 ```
 ```md
 Name: Almond
