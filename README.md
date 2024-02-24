@@ -4,12 +4,16 @@
 <br>
 
 ```java
-public static WhoIam(String Name){
-	if(Name=="Makenna"){
-		System.out.println(Silly girl);
-	}
+public class Main {
+  static void Me() {
+    System.out.println("Makenna!");
+  }
+
+  public static void main(String[] args) {
+    Me();
+  }
 }
-Silly.WhoIam("Makenna"); 
+
 ```
 ```md
 Name: Almond
