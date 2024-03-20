@@ -3,18 +3,6 @@
 <br>
 <br>
 
-```java
-public class Main {
-  static void Me() {
-    System.out.println("Makenna!");
-  }
-
-  public static void main(String[] args) {
-    Me();
-  }
-}
-
-```
 ```md
 Name: Almond
 Pronouns: She/Her
